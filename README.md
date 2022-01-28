@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+   
+
+- 👋 Hi, I’m @HiteshMoorjaniX
+- 👀 I’m improving my skills in React, NodeJs
+- 🌱 I’m currently learning React, NextJs, TypeScript and NodeJs.
+- 📫 How to reach me: email: moorjanihitesh21@gmail.com
+
+ 
